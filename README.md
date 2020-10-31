@@ -6,3 +6,7 @@
 * Pablo Estrada
 * Maximiliano César Nivoli
 * Ashley Quezada
+
+## Presentación
+
+https://docs.google.com/presentation/d/1l980Y-ZgYrTINZ0NX5zz1uiQfy82cOrmzpBsOtnHRko/edit?usp=sharing
